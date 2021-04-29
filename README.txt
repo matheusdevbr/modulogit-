@@ -1,1 +1,1 @@
-My first steps on GitHub.
+My first steps.
